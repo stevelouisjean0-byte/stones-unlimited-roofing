@@ -6,7 +6,7 @@ from 5 Google reviews.
 
 - **Address** 5908 W Jones Ave, Mt Dora, FL 32757
 - **Phone** (407) 509-4047
-- **Hours** Opens 7 AM Monday (rest of the week not published here — see below)
+- **Hours** Open 24 hours, all seven days
 - **Plus code** P9JR+7M Mt Dora, Florida
 
 ## Pages
@@ -54,7 +54,7 @@ correspondingly no room to pad. Every claim traces back:
 | Roof replacement, landscaping protected, timely and organized | Dax Buell's review |
 | Custom build on a flag lot, difficult access, better than expected | Andres Verney's review |
 | Owner named Rafael | Andres Verney's review |
-| Opens 7 AM Monday | Google profile |
+| Open 24 hours, all seven days | Google profile |
 
 Reviews are quoted verbatim including the missing space in "roof
 Replacement.The" — correcting a customer's words would be falsifying them.
@@ -63,17 +63,16 @@ None of the three visible reviews carries an owner reply, so none is shown.
 No star distribution is displayed: with five reviews Google gives the average
 and the total only.
 
-**Hours are deliberately incomplete.** Google shows "Opens 7 AM Mon" with the
-rest behind "See more hours". Rather than invent a Tuesday-to-Sunday schedule,
-`contact.html` prints Monday and says the rest is not published here. Fill it
-in before launch.
+**Hours** are the full published week: open 24 hours, Sunday through Saturday.
+The "Closed - Opens 7 AM Mon" line on the Google profile was a live status, not
+the schedule. `contact.html` carries all seven days plus a note that public
+holidays can differ, since Google flags those separately.
 
 ## Before launch
 
 - Photography is placeholder stock from Pexels in `assets/img/`. Real job
   photos would help most on `roofing.html` and `building.html` — replace the
   files keeping the filenames; grade and crop are CSS.
-- Complete the hours table.
 - No licensing or insurance claims appear anywhere by design; the FAQ directs
   callers to ask and verify against the Florida DBPR record.
 - Rating and review counts are current as of September 2026.
